@@ -1,8 +1,11 @@
-# Members Pro project
+# Members Pro 
 
-- This is a project to retrieve and show user profiles. 
+- This is a website for showing user profiles. 
 
 
+![Screen Shot of Website](https://raw.githubusercontent.com/kudzaitsapo/memberspro/master/scr_1.png)
+
+![Screen Shot of Website](https://raw.githubusercontent.com/kudzaitsapo/memberspro/master/scr_2.png)
 
 ## Project setup
 ```
