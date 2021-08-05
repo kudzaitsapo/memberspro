@@ -1,4 +1,8 @@
-# memberspro
+# Members Pro project
+
+- This is a project to retrieve and show user profiles. 
+
+
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

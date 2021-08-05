@@ -3,6 +3,7 @@
         <div class="p-2 text-monospace h3 text-center mb-0">
             <div class="bg-white rounded shadow p-3 h-100">Members</div>
         </div>
+        
         <paginated-members v-bind:group-members="visibleMembers" />
 
         <div class="overflow-auto mt-4 ml-3">
